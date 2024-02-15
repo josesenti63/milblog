@@ -1,0 +1,1 @@
+milblog es una aplicacion de Blog creada en Django. Se postean diversas noticias vinculadas con la temática militar buscando mejorar el feedback con un publico que comprende a personas de entre 25 y 35 años
